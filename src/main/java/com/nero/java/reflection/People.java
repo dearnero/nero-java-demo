@@ -1,5 +1,10 @@
 package com.nero.java.reflection;
 
+import sun.swing.BakedArrayList;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * <p>
  * date : 2019-02-27
@@ -15,6 +20,7 @@ public class People {
     public void peopleSayHello() {
 
         System.out.println("hello, i am People");
+        Integer a = 1;
     }
 
     private void peopleSayHelloPrivate() {

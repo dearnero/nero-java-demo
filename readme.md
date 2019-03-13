@@ -5,3 +5,6 @@
 3. Semaphore
 4. CountDownLatch
 5. CyclicBarrier
+6. proxy
+7. autobox
+
